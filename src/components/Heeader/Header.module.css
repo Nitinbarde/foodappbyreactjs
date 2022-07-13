@@ -1,0 +1,19 @@
+.headerContainer{
+    background-color: rgb(62, 56, 56);
+    width: 100%;
+ 
+}
+.menuContainer{
+    display: flex;
+
+}
+.menuItem{
+    color: white;
+    padding: 20px;
+    font-size: 18px;
+
+}
+.menuItem:hover{
+    background-color: black;
+    cursor: pointer;
+}
